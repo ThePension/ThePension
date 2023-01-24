@@ -1,13 +1,8 @@
-- 👋 Hi, I’m @ThePension
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+As a software engineer student, I am a master at turning caffeine into code.
 
-<!---
-ThePension/ThePension is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I have a love-hate relationship with debugging, but ultimately, I always find a way to fix the bugs.
+
+I am always open to new opportunities, so if you need a coder who can make your project not only work, but also work in style, let's collaborate!
 
 ## Typing
 - [TenFastFingers](https://10fastfingers.com/user/1650007/)
