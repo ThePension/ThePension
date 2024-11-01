@@ -1,9 +1,9 @@
 
 
 <h1 align="center">Hi 👋, I'm ThePension</h1>
-<h3 align="center">Software engineer student at HE-Arc, Switzerland 🇨🇭</h3>
+<h3 align="center">Software engineer currently working at Softcom Technologies SA, Switzerland 🇨🇭</h3>
 
-As a software engineer student, I am a master at turning caffeine into code.
+As a software engineer, I am a master at turning caffeine into code.
 
 I have a love-hate relationship with debugging, but ultimately, I always find a way to fix the bugs.
 
