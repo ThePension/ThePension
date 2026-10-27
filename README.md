@@ -11,8 +11,6 @@ Debugging may test my patience, but finding solutions is where I thrive.
 
 Open to new challenges and collaborations — if you’re looking for someone who can deliver reliable, secure, and elegant solutions, let’s connect!
 
-Check my personal website at [https://thepension.ch](https://thepension.ch) !
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nicaub/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nicaub/" height="30" width="40" /></a>
